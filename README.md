@@ -12,3 +12,4 @@ The repository is organized into the following directories:
 - **Postfix**: Code related to postfix expression evaluation and conversion.
 - **RedBlack&SkipList&Hashing**: Implementations of Red-Black Trees, Skip Lists, and Hashing techniques.
 - **SuffixArray**: Implementation of Suffix Arrays, useful in string processing
+- **BigReal**: Implementaion of BigReal.cpp class that handels the calculations of Big Real numbers
